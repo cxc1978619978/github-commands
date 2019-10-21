@@ -9,10 +9,12 @@ $ git init
 
 #### 2.设置名字和邮箱
 $ git config --global user.name "Your Name"
+
 $ git config --global user.email "email@example.com"
 
 #### 3.本地创建版本库
 $ git add .
+
 $ git commit -m "wrote a readme file"
 
 #### 4.添加远程库
